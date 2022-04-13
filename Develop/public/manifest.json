@@ -1,0 +1,15 @@
+{
+    "name": "BudgetTrackr",
+    "short_name": "BT",
+    "icons": [
+        {
+            "src": "/icons/icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        }
+    ],
+    "theme_color": "",
+    "background_color": "",
+    "start_url": "index.html",
+    "display": ""
+}
