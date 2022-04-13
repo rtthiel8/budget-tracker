@@ -8,8 +8,8 @@
             "sizes": "72x72"
         }
     ],
-    "theme_color": "",
-    "background_color": "",
+    "theme_color": "#008080",
+    "background_color": "#000080",
     "start_url": "index.html",
-    "display": ""
+    "display": "browser"
 }
